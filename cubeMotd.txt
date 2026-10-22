@@ -1,0 +1,58 @@
+// KEY:
+// "-" Update Title
+// "--" Update Subtitle
+// "-+" Update Added
+// "-=" Update Changed/Fixed
+// "-|" Update Removed
+// "-#" Update Info
+// "//" Ignored Lines
+// "MOTD:" Message Of The Day
+// "MOTD_IMG=" Image displayed for MOTD
+// "UPD_IMG=" Image displayed for Update
+
+MOTD: Welcome to the CUBE Beta!
+
+This version is still in active development and not intended for full public release yet — but you're here, so thank you for testing it out.
+Expect bugs, weirdness, and things changing frequently.
+
+If you have feedback, ideas, or you break something (you probably will), let us know!
+
+- Update 0.7.2
+-- Major polish update + system reworks
+
+-# This update focuses on improving core gameplay feel, stability, and preparing for future features.
+
+-+ Menu Controller Support
+-# You can now fully navigate menus using a controller.
+
+-+ Pause Menu
+-# Finally added — access settings or take a break mid-run.
+
+-+ Play Menu & Private Games
+-# New flow for starting games, including private sessions.
+
+-+ Complete UI Overhaul
+-# Most menus and UI elements have been redesigned for clarity and style.
+
+-+ Wall Friction set to zero
+-# Movement should now feel smoother and more consistent when sliding along surfaces.
+
+-= Collision Optimizations
+-# Improved performance and more reliable physics interactions.
+
+-= Reworked Damage System
+-# Damage handling has been rebuilt for better consistency and future expansion.
+
+-= Fixed Teleporting Issues
+-# This one took way too long.
+
+-= Fixed Cube Texture Issues
+-# Visual glitches on cubes should now be resolved.
+
+-# Join our Discord to give feedback, report bugs, or just hang out:
+url=https://discord.gg/ZHRWv8BCqV|Discord
+
+-# Thanks for playing and helping shape CUBE
+
+MOTD_IMG=https://raw.githubusercontent.com/NanoDogs-Studios/CUBE/refs/heads/main/Assets/Textures/characters/Healer.png
+UPD_IMG=https://raw.githubusercontent.com/NanoDogs-Studios/CUBE/refs/heads/main/Assets/Textures/characters/DJ.png
